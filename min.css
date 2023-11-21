@@ -7,7 +7,12 @@
 body {
     box-sizing: border-box;
 }
-*p {
+
+p {
     font-family: 'Times New Roman', Times, serif;
-    background-color: aquamarine;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    background-color: rgb(4, 38, 27);
 }
